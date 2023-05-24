@@ -27,22 +27,22 @@
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token",
-            "value": "",
+            "value": "6173961109:AAFej9HZGq0kjkDYUZxd_M_AF3_aJjKLKXw",
             "required": true
         },
         "API_ID": {
             "description": "Get from https://my.telegram.org",
-            "value": "",
+            "value": "21465383",
             "required": true
         },
         "API_HASH": {
             "description": "Get from https://my.telegram.org",
-            "value": "",
+            "value": "a640034c8668062b2b9a1df588906ad4",
             "required": true
         },
         "SUDO": {
             "description": "sudo ids here.",
-            "value": "",
+            "value": "5883639778",
             "required": true
         }
     }
